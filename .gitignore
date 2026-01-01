@@ -7,6 +7,9 @@ reated by https://www.toptal.com/developers/gitignore/api/csharp,dotnetcore
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+*.csv
+*.vscode
+
 # User-specific files
 *.rsuser
 *.suo
